@@ -1,8 +1,6 @@
-# Page Not Found
-
-Demo:
+# Page Not Found (404)
 
  ![](image/image.png)
 
 
-Athor: code_wars_official.
+idea: code_wars_official
